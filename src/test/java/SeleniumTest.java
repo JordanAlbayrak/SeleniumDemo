@@ -1,5 +1,5 @@
 import io.github.bonigarcia.seljup.SeleniumExtension;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
